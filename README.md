@@ -282,10 +282,10 @@ llama_perf_context_print:       total time =     939.60 ms /   123 tokens
 ## GPU 상태
 
 ### 실행 전
-![실행전gpu메모리status](<실행전gpu메모리status.png>)
+![실행-전-gpu-status](<실행-전-gpu-status.png>)
 
 ### 실행 후
-![실행후gpu메모리status](<실행후gpu메모리status.png>)
+![실행-후-gpu-status](<실행-후-gpu-status.png>)
 
 ## 결론
 추구해도 됩니다.
